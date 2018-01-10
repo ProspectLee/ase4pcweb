@@ -1,0 +1,19 @@
+{
+  "name": "ase4pcweb",
+  "version": "1.0.0",
+  "description": "The begin of PEL's sense",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProspectLee/ase4pcweb.git"
+  },
+  "author": "elegance",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ProspectLee/ase4pcweb/issues"
+  },
+  "homepage": "https://github.com/ProspectLee/ase4pcweb#readme"
+}
